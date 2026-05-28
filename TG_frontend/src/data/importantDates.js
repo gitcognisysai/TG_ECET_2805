@@ -19,7 +19,7 @@
 
 
 export const importantDates = [
-  { event: "Issue of Notification", date: "28 May 2026(Thursday)", status: "upcoming" },//completed
+  { event: "Issue of Notification", date: "28 May 2026(Thursday)", status: "completed" },//completed
   { event: "Start of Online Application", date: "01 Jun 2026(Monday)", status: "upcoming" },
   { event: "Last Date without Late Fee", date: "11 July 2026(Saturday)", status: "upcoming" },
   { event: "Last Date with Late Fee", date: "21 July 2026(Tuesday)", status: "upcoming" },
